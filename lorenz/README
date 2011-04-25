@@ -1,0 +1,11 @@
+# lorenz
+
+A fork of Lau B. Jensen's Lorenz Attractor visualization [http://www.bestinclass.dk/index.clj/2009/09/chaos-theory-vs-clojure.html] which adds many more chaotic functions.
+
+## Usage
+
+Check out src/lorenz/core.clj for the list of available chaotic functions. Currently requires fiddling with -main to change the function :(
+
+## Installation
+
+Standard leiningen installation -- `lein deps`.
